@@ -9,6 +9,7 @@ Introducción al equipo
   int main(){
   
   cout << "Hello world!" << endl;
+  system("pause");
   return 0;
   }
 ```
