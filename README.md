@@ -1,4 +1,4 @@
-# introduccion
+# introducción 
 Introducción al equipo
 ```
 #include <iostream>
