@@ -1,2 +1,2 @@
 # introduccion
-Introducción a equipo
+Introducción al equipo
