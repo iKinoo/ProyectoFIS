@@ -1,6 +1,6 @@
 # introduccion
 Introducción al equipo
-'''
+```
 #include <iostream>
 #include <stdlib.h>
   
@@ -11,4 +11,5 @@ Introducción al equipo
   cout << "Hello world!" << endl;
   return 0;
   }
-'''
+```
+
