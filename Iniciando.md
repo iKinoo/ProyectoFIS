@@ -6,11 +6,16 @@ De la reunión se concibieron tres propuestas, las cuales acatan problemáticas 
 <br>
 
 **Mejor difusión de las ofertas de trabajo para el área de computo FMAT**
+<br>
+[Vídeo](https://youtu.be/LacxFBu7-dQ)
+<br>
 
 Hace falta un canal que comunique a las empresas que buscan talento nuevo con los estudiantes del área de computo, WorkShop y la Escuela ya hacen un buen trabajo, pero hace falta un método de comunicación más moderno que facilite la interacción, con una interfaz de usuario intuitiva que mejore la experiencia de usuario mientras navega por la plataforma, al mismo tiemop que encuentra las ofertas de trabajo, convocatorias de Internships, y otras oportunidades que potencie su carrea profesional.
 <br>
 
 **Encargos ágiles en la cafetería FMAT**
+<br>
+[Vídeo](https://youtu.be/HyCusK-BJfA)
 <br>
 
 La alimentación es un importante factor en la salud, y en el contexto de la FMAT, en el rendimiento académico, pero existen varios aspectos que perjudican esta necesidad.<br>
