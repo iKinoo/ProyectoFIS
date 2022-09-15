@@ -1,4 +1,4 @@
-# Iniciando alsdfjalsjfas<br>
+# Iniciando alsdfjalsjfas JAJAJAJAJA<br>
 El pasado lunes 29 de agosto de 2022, se realizó la primera actividad del equipo, la cual fue virtual a través del software para trabajo colaborativo Microsoft Teams, en esta reunión el tema principal fue la determinación por lo menos tres propuestas de proyecto las cuales serán planteadas mediante cualquier formato audiovisual de la preferencia del equipo para su evualuación a criterio del profesor Edgar Cambranes.<br>
 
 ## Propuestas<br>
