@@ -8,6 +8,7 @@ De la reunión se concibieron tres propuestas, las cuales acatan problemáticas 
 **Mejor difusión de las ofertas de trabajo para el área de computo FMAT**
 <br>
 [Vídeo](https://youtu.be/LacxFBu7-dQ)
+
 <br>
 
 Hace falta un canal que comunique a las empresas que buscan talento nuevo con los estudiantes del área de computo, WorkShop y la Escuela ya hacen un buen trabajo, pero hace falta un método de comunicación más moderno que facilite la interacción, con una interfaz de usuario intuitiva que mejore la experiencia de usuario mientras navega por la plataforma, al mismo tiemop que encuentra las ofertas de trabajo, convocatorias de Internships, y otras oportunidades que potencie su carrea profesional.
