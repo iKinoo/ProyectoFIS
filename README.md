@@ -27,10 +27,12 @@ Muchos de los estudiantes tienen medido los tiempos de su transporte a la escuel
 La propuesta es diseñar una aplicación web en la que se pueda ordenar, según el menú del día siguiente, el desayuno para que se pueda ir a recoger en un horario programado. El concepto es sencillo, se registran las ordenes, la hora en la que los estudiantes lo van a ir a recoger, y el día correspondiente las ordenes serán entregadas al equipo de la cafetería para que se prepare con antelación los desayunos y se recojan en tiempo, optimizando así el tiempo.
 <br>
 
-**Horarios de transporte, rutas FMAT**
+**Rutas del transporte público**
 <br>
-Casi todos los estudiantes se mueven por transporte público, es por eso que yace la necesidad de contar con una fuente de información confiable en la que se despliegue las rutas que hacen conexión con la Facultad de Matemáticas, o en su defecto con la Facultad de Ingeniería, así como horarios y tiempos de los camiones.
+[Vídeo](https://www.youtube.com/watch?v=9GeFVuQ64-4)
+<br>
 
+Casi todos los estudiantes se mueven por transporte público, es por eso que yace la necesidad de contar con una fuente de información confiable en la que se despliegue las rutas que hacen conexión con la Facultad de Matemáticas, o en su defecto con la Facultad de Ingeniería, así como tiempos de llegada, las rutas óptimas, y geolocalización.
 
 
 
