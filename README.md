@@ -12,9 +12,7 @@ De la reunión se concibieron las propuestas siguientes, las cuales acatan probl
 <br>
 
 Hace falta un canal que comunique a las empresas que buscan talento nuevo con los estudiantes del área de computo, WorkShop y la Escuela ya hacen un buen trabajo, pero hace falta un método de comunicación más moderno que facilite la interacción, con una interfaz de usuario intuitiva que mejore la experiencia de usuario mientras navega por la plataforma, al mismo tiemop que encuentra las ofertas de trabajo, convocatorias de Internships, y otras oportunidades que potencie su carrea profesional.
-<br>
--->
-
+<br> -->
 **Encargos ágiles en la cafetería FMAT**
 <br>
 [Vídeo](https://youtu.be/HyCusK-BJfA)
@@ -24,8 +22,9 @@ La alimentación es un importante factor en la salud, y en el contexto de la FMA
 1. Los tiempos de llegada la facultad <br>
 Muchos de los estudiantes tienen medido los tiempos de su transporte a la escuela, por lo que la mayor parte de las veces se descarta desayunar para ahorrar tiempo.<br>
 2. No hay tiempo entre clases, especialemente los de primer semestre tienen las clases de corrido, el tiempo en pedir una orden, esperar, y desayunar, sobrepasa el tiempo de tolerancia de algunos profesores, varios permiten los alimentos en clase, eso ayuda, pero con el tiempo de orden.<br>
-3. Aunado a lo anterior, a veces en tanta la demanda de la cafetería, que directamente se descarta desayunar, o en cambio, optar por una galleta o snack que aporta poco valor nutrimental.<br>
-La propuesta es diseñar una aplicación web en la que se pueda ordenar, según el menú del día siguiente, el desayuno para que se pueda ir a recoger en un horario programado. El concepto es sencillo, se registran las ordenes, la hora en la que los estudiantes lo van a ir a recoger, y el día correspondiente las ordenes serán entregadas al equipo de la cafetería para que se prepare con antelación los desayunos y se recojan en tiempo, optimizando así el tiempo.
+3. Aunado a lo anterior, a veces es tanta la demanda de la cafetería, que directamente se descarta desayunar, o en cambio, optar por una galleta o snack que aporta poco valor nutrimental.<br>
+
+La propuesta es diseñar una aplicación web en la que se pueda ordenar, según el menú del día siguiente, el desayuno para que se pueda ir a recoger en un horario programado. El concepto es sencillo, se registran las ordenes, la hora en la que los estudiantes lo van a ir a recoger, y el día correspondiente las ordenes serán entregadas al equipo de la cafetería para que se prepare con antelación los desayunos y se recojan en tiempo, optimizando así este valioso elemento.
 <br>
 
 **Rutas del transporte público**
