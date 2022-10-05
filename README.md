@@ -2,7 +2,7 @@
 ## Integrantes
 
 - Canche May Marco Santiago
-- Días Gómez Wilbert 
+- Díaz Gómez Wilbert 
 - Góngora Tun Jaqueline 
 - Pacab Canul Rodrigo Joaquín
 - Sánchez Peraza Gabriel
