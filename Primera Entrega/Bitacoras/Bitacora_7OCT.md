@@ -1,0 +1,3 @@
+# Bitacora_7OCT
+Analizamos los comentarios del asesor en la primera entrega, los requerimientos Funcionales 4, y los requerimientos No Funcionales 2 y 6. Por este análisis se propusieron los siguientes cambios. Al producto se le asignó como nombre clave, SAP. Objetivo: Analizar el proceso de los pedidos de la cafeteria y se refinaron los requerimientos mencionados. Se discutió a grandes rasfos el proceso y comunicacion de SAP-USUARIO-CAFETERIA.
+Nuestros usuarios serán Primarios, Secundarios y Potenciales.
