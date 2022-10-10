@@ -20,3 +20,5 @@ TM = "TOTAL MAGNITUDE"
 La métrica de contribución original se encuentra alojada en el Sharepoint del equipo, por lo que su edición es privada; sin embargo es posible descargar el formato Excel desde aquí:
 
 [Métrica de contribución.xlsx](M%C3%A9trica%20de%20contribuci%C3%B3n.xlsx)
+
+testing
