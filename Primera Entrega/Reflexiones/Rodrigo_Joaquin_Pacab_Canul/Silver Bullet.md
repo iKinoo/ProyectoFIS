@@ -3,6 +3,10 @@ Minecraft es mi juego favorito de toda la vida, con toda la vida me refiero a lo
 
 Dennis Mancl, Steven D. Fraser, and William F. Opdyke. 2007. No silver bullet: a retrospective on the essence and accidents of software engineering. In Companion to the 22nd ACM SIGPLAN conference on Object-oriented programming systems and applications companion (OOPSLA '07). ACM, New York, NY, USA, 758-759. DOI=http://dx.doi.org/10.1145/1297846.1297873   
 
+E. Slayer, "¿Por qué tan mal optimizado? // Why so bad optimized? - Discussion - Minecraft: Java Edition - Minecraft Forum - Minecraft Forum,"   Minecraftforum, Oct. 5, 2017. https://www.minecraftforum.net/forums/minecraft-java-edition/discussion/2864122-por-que-tan-mal-optimizado-why-so-bad-optimized#c3
+
 José L. Ortega, "Minecraft: ¿Por qué esta decepcionando la The Wild Update antes incluso de estar disponible? - Millenium,"   Millenium, May. 30, 2022. https://www.millenium.gg/noticias/47910.html 
 
-M. Fowler "TechnicalDebtQuadrant,"   Martinfowler, Oct. 14, 2009. https://martinfowler.com/bliki/TechnicalDebtQuadrant.html 
+M. Fowler "TechnicalDebtQuadrant,"   Martinfowler, Oct. 14, 2009. https://martinfowler.com/bliki/TechnicalDebtQuadrant.html
+
+
