@@ -1,0 +1,5 @@
+IS RETROSPECTIVA
+Al inicio del semestre, mi idea de los ingenieros de software era que se dedicaban exclusivamente al área de la programación; pensaba que estudiando esto, pasaría todo el día programando en una computadora y además que trabajaría sola.
+Ahora, a pesar del corto periodo de tiempo que llevo en la escuela, luego de haber escuchado experiencias de otras personas, donde pude ver que, a pesar de que esas personas estudiaron LIS, no necesariamente se dedicaban a esta área en específico. 
+Aprendí que IS es mucho más que lo que había pensado al inicio. No se trata solo de programar, es hacer uso de los conocimientos adquiridos para buscar solución a problemas; es aprender cosas que no se enseñan en la universidad, como las soft skills, administrar tanto empresas como proyectos, aprender a usar las herramientas que estén a nuestro alcance para entregar el mejor trabajo posible, dirigir personas, revisar códigos, entre muchas otras cosas. 
+Puede notar que las hard skills no lo son todo y que saber programar no me asegura un buen puesto laboral si no está compensado con otras habilidades.
