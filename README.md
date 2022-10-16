@@ -1,5 +1,5 @@
-# Sistema de Agilización de Pedidos Fmat<br>
-### Integrantes
+# Iniciando<br>
+## Integrantes
 
 - Canche May Marco Santiago
 - Díaz Gómez Wilbert 
@@ -7,41 +7,6 @@
 - Pacab Canul Rodrigo Joaquín
 - Sánchez Peraza Gabriel
 
-### Objetivo
-Agilizar el proceso de pedidos de la cafetería de la Facultad de Matemáticas - UADY
-### Usuarios
-- **Primarios**  
-  - Personal de la cafetería de la facultad de Matemáticas
-
-- **Secundarios**
-  - Estudiantes, personal académico y administrativo de la Facultad de Matemáticas - UADY
-
-- **Potenciales**
-  - Facultad de Ingeniería Química - UADY
-  - Facultad de Ingeniería - UADY
-
-
-### SCRUM
-
-- **Product Owner**
-  - Canché May Marco Santiago
-- **Scrum Master**
-  - Pacab Canul Rodrigo Joaquín
-- **Development Team**
-  - Díaz Gómez Wilbert
-  - Góngora Tun Jaqueline
-  - Sánchez Peraza Gabriel
-
-## Primera entrega
-1. [Artefactos](Primera%20Entrega/Artefactos/)
-2. [Bitácoras](Primera%20Entrega/Bitacoras/)
-3. [Reflexiones](Primera%20Entrega/Reflexiones/)
-4. [Vídeo](https://youtu.be/v-iwuLPDxOk)
-
-## Segunda Entrega
-## Tercera Entrega
-
-<!--
 El pasado lunes 29 de agosto de 2022, se realizó la primera actividad del equipo, la cual fue virtual a través del software para trabajo colaborativo Microsoft Teams, en esta reunión el tema principal fue la determinación por lo menos tres propuestas de proyecto las cuales serán planteadas mediante cualquier formato audiovisual de la preferencia del equipo para su evualuación a criterio del profesor Edgar Cambranes.<br>
 
 ## Propuestas<br>
@@ -56,8 +21,6 @@ De la reunión se concibieron las propuestas siguientes, las cuales acatan probl
 
 Hace falta un canal que comunique a las empresas que buscan talento nuevo con los estudiantes del área de computo, WorkShop y la Escuela ya hacen un buen trabajo, pero hace falta un método de comunicación más moderno que facilite la interacción, con una interfaz de usuario intuitiva que mejore la experiencia de usuario mientras navega por la plataforma, al mismo tiemop que encuentra las ofertas de trabajo, convocatorias de Internships, y otras oportunidades que potencie su carrea profesional.
 <br> -->
-
-<!--
 **Encargos ágiles en la cafetería FMAT**
 <br>
 [Vídeo](https://youtu.be/HyCusK-BJfA)
@@ -79,4 +42,5 @@ La propuesta es diseñar una aplicación web en la que se pueda ordenar, según 
 
 Casi todos los estudiantes se mueven por transporte público, es por eso que yace la necesidad de contar con una fuente de información confiable en la que se despliegue las rutas que hacen conexión con la Facultad de Matemáticas, o en su defecto con la Facultad de Ingeniería, así como tiempos de llegada, las rutas óptimas, y geolocalización.
 
--->
+
+
