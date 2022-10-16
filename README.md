@@ -1,4 +1,10 @@
 # Sistema de Agilización de Pedidos Fmat<br>
+Un bot de WhatsApp Business que agilice y automatice los pedidos de la cafetería Fmat, con esto los estudiantes podrán ahorrarse la cola física y poder ahorrar tiempo.
+
+### Innovación
+
+Fácil de usar, implementación de WhatsApp Business, el primero en el Campus de Ciencias exactas e Ingeniería.
+
 ### Integrantes
 
 - Canche May Marco Santiago
@@ -19,7 +25,6 @@ Agilizar el proceso de pedidos de la cafetería de la Facultad de Matemáticas -
 - **Potenciales**
   - Facultad de Ingeniería Química - UADY
   - Facultad de Ingeniería - UADY
-
 
 ### SCRUM
 
