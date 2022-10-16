@@ -1,8 +1,0 @@
-# IS vs Seguridad
-
-Desarrollar software no es fácil, ese factor es lo que distingue a un Ingeniero de Software de un programador promedio; dado que la IS no es solo programar, se requieren conocimientos de otras áreas como matemáticas, algoritmia, o incluso contabilidad, que se integran en mecanismos y metodologías propias de la ingeniería. El software seguro, es producto de un software de calidad, y la calidad se obtiene mediante la Ingeniería de Software, en ese aspecto, parece no resultar importante los expertos en seguridad, o ciberseguridad, pero estaríamos obviando el factor humano, la mayoría de los ataques informáticos, ocurren en principio mediante Ingeniería Social por parte de los atacantes. En un sistema por más blindado que esté por los IS, no está exento de ciberataques, cuya brecha no será del sistema, sino del factor humano; en ese sentido se puede concluir que es necesario expertos en seguridad que se centren en el aspecto organizacional, el manejo y monitorización de la información, y anticiparse ante cualquier posible ataque, aunque en este último punto, diría yo, lo tienen difícil tanto los Ingenieros de Software como los expertos en Seguridad, porque se tiene que pensar en lo impensable.
-
-## Referencias
-Hidalgo Tarrero, J. T. 2014. Ingeniería del Software y Ciberseguridad. https://www.ieee.es/Galerias/fichero/docs_opinion/2014/DIEEEO88-2014_Ingenieria_Software_Ciberseguridad_HidalgoTarrero.pdf
-
-Innovación en Formación Profesional. 2022. ¿Qué hace un especialista en ciberseguridad y cuáles son sus funciones? https://www.ifp.es/blog/que-hace-un-especialista-en-ciberseguridad-y-cuales-son-sus-funciones 
