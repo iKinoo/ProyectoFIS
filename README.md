@@ -1,87 +1,37 @@
-# Sistema de Agilización de Pedidos Fmat<br>
-Un bot de WhatsApp Business que agilice y automatice los pedidos de la cafetería Fmat, con esto los estudiantes podrán ahorrarse la cola física y poder ahorrar tiempo.
+# **Sistema de Agilización de Pedidos FMAT (SAP)**<br>
 
-### Innovación
+## **Integrantes y roles**
 
-Fácil de usar, implementación de WhatsApp Business, el primero en el Campus de Ciencias exactas e Ingeniería.
+<hr>
 
-### Integrantes
+**Scrum Master**
+* **Pacab Canul Rodrigo Joaquín** - [@iKinoo](https://github.com/iKinoo "@iKinoo")
 
-- Canche May Marco Santiago
-- Díaz Gómez Wilbert 
-- Góngora Tun Jaqueline 
-- Pacab Canul Rodrigo Joaquín
-- Sánchez Peraza Gabriel
+ **Product Owner**
+ * **Canché May Marco Santiago** - [@MarcoSIIIU](hhttps://github.com/MarcoSIIIU "@MarcoSIIIU")
 
-### Objetivo
-Agilizar el proceso de pedidos de la cafetería de la Facultad de Matemáticas - UADY
-### Usuarios
-- **Primarios**  
-  - Personal de la cafetería de la facultad de Matemáticas
+**Development Team**
+* **Sánchez Peraza Gabriel** - [@CebollaRodriguez](https://github.com/CebollaRodriguez "@CebollaRodriguez")
+* **Díaz Gómez Wilbert** - [@Wilbert](https://github.com/Enrique325 "@Wilbert") 
+* **Góngora Tun Jaqueline** - [@jaquelinegt](https://github.com/jaquelinegt "@jaquelinegt")
+<hr>
 
-- **Secundarios**
-  - Estudiantes, personal académico y administrativo de la Facultad de Matemáticas - UADY
 
-- **Potenciales**
-  - Facultad de Ingeniería Química - UADY
-  - Facultad de Ingeniería - UADY
+## **Problemática** 
+[**Video de resentación del proyecto**](https://youtu.be/HyCusK-BJfA)
 
-### SCRUM
+ Ineficiencia de tiempo y administración en el proceso de pedidos de alimentos de la Cafetería de la Facultad de Matemáticas (FMAT).
 
-- **Product Owner**
-  - Canché May Marco Santiago
-- **Scrum Master**
-  - Pacab Canul Rodrigo Joaquín
-- **Development Team**
-  - Díaz Gómez Wilbert
-  - Góngora Tun Jaqueline
-  - Sánchez Peraza Gabriel
+## **Producto** 
+Sistema de Administración de Pedidos.
 
-## Primera entrega
-1. [Artefactos](Primera%20Entrega/Artefactos/)
-2. [Bitácoras](Primera%20Entrega/Bitacoras/)
-3. [Reflexiones](Primera%20Entrega/Reflexiones/)
-4. [Vídeo](https://youtu.be/v-iwuLPDxOk)
+## **Objetivo**
+ Agilizar el proceso de los pedidos en la cafetería de FMAT a través de un sistema que permita las órdenes sin necesidad de estar físicamente presencial en la cafetería; y al mismo tiempo concentre el proceso de los pedidos de usuarios consumidores tanto físicos como no físicos.
 
-## Segunda Entrega
-## Tercera Entrega
+## **Usuarios**
+**Usuario cafetería.** Es el usuario que atiende y confirma (ver requerimiento F3) los pedidos de los usuarios consumidores físicos, y no físicos.
+Usuario Consumidor No físico. Es el usuario que realiza pedidos a través del sistema. No es necesario que esté físicamente en la cafetería para ello.
 
-<!--
-El pasado lunes 29 de agosto de 2022, se realizó la primera actividad del equipo, la cual fue virtual a través del software para trabajo colaborativo Microsoft Teams, en esta reunión el tema principal fue la determinación por lo menos tres propuestas de proyecto las cuales serán planteadas mediante cualquier formato audiovisual de la preferencia del equipo para su evualuación a criterio del profesor Edgar Cambranes.<br>
+**Usuario Consumidor Físico.** Es el usuario que no realiza pedidos a través del sistema. Es necesario que esté físicamente presente en la cafetería para realizar pedidos.
 
-## Propuestas<br>
-De la reunión se concibieron las propuestas siguientes, las cuales acatan problemáticas diferentes cercanos a la realidad del equipo
-<br>
 
-<!-- **Mejor difusión de las ofertas de trabajo para el área de computo FMAT** 
-<br>
-[Vídeo](https://youtu.be/LacxFBu7-dQ)
-
-<br>
-
-Hace falta un canal que comunique a las empresas que buscan talento nuevo con los estudiantes del área de computo, WorkShop y la Escuela ya hacen un buen trabajo, pero hace falta un método de comunicación más moderno que facilite la interacción, con una interfaz de usuario intuitiva que mejore la experiencia de usuario mientras navega por la plataforma, al mismo tiemop que encuentra las ofertas de trabajo, convocatorias de Internships, y otras oportunidades que potencie su carrea profesional.
-<br> -->
-
-<!--
-**Encargos ágiles en la cafetería FMAT**
-<br>
-[Vídeo](https://youtu.be/HyCusK-BJfA)
-<br>
-
-La alimentación es un importante factor en la salud, y en el contexto de la FMAT, en el rendimiento académico, pero existen varios aspectos que perjudican esta necesidad.<br>
-1. Los tiempos de llegada la facultad <br>
-Muchos de los estudiantes tienen medido los tiempos de su transporte a la escuela, por lo que la mayor parte de las veces se descarta desayunar para ahorrar tiempo.<br>
-2. No hay tiempo entre clases, especialemente los de primer semestre tienen las clases de corrido, el tiempo en pedir una orden, esperar, y desayunar, sobrepasa el tiempo de tolerancia de algunos profesores, varios permiten los alimentos en clase, eso ayuda, pero con el tiempo de orden.<br>
-3. Aunado a lo anterior, a veces es tanta la demanda de la cafetería, que directamente se descarta desayunar, o en cambio, optar por una galleta o snack que aporta poco valor nutrimental.<br>
-
-La propuesta es diseñar una aplicación web en la que se pueda ordenar, según el menú del día siguiente, el desayuno para que se pueda ir a recoger en un horario programado. El concepto es sencillo, se registran las ordenes, la hora en la que los estudiantes lo van a ir a recoger, y el día correspondiente las ordenes serán entregadas al equipo de la cafetería para que se prepare con antelación los desayunos y se recojan en tiempo, optimizando así este valioso elemento.
-<br>
-
-**Rutas del transporte público**
-<br>
-[Vídeo](https://www.youtube.com/watch?v=9GeFVuQ64-4)
-<br>
-
-Casi todos los estudiantes se mueven por transporte público, es por eso que yace la necesidad de contar con una fuente de información confiable en la que se despliegue las rutas que hacen conexión con la Facultad de Matemáticas, o en su defecto con la Facultad de Ingeniería, así como tiempos de llegada, las rutas óptimas, y geolocalización.
-
--->
