@@ -8,3 +8,5 @@
 ![alt](fotoprototipo1.png)
 ![alt](fotoprototipo2.png)
 ![alt](fotoprototipo3.png)
+
+## [Validación de requerimientos](Validadación%20de%20requerimientos.pdf)
