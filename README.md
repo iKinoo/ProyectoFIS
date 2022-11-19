@@ -35,5 +35,5 @@ Sistema de Administración de Pedidos.
 
 **Usuario Consumidor Físico.** Es el usuario que no realiza pedidos a través del sistema. Es necesario que esté físicamente presente en la cafetería para realizar pedidos.
 
-![Video de la segunda entrega](https://www.youtube.com/watch?v=Zcaey8lxAGE)
+[Video de la segunda entrega](https://www.youtube.com/watch?v=Zcaey8lxAGE)
 
