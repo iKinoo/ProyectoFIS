@@ -18,7 +18,7 @@
 
 
 ## **Problemática** 
-[**Video de resentación del proyecto**](https://youtu.be/HyCusK-BJfA)
+[**Video de presentación del proyecto**](https://youtu.be/HyCusK-BJfA)
 
  Ineficiencia de tiempo y administración en el proceso de pedidos de alimentos de la Cafetería de la Facultad de Matemáticas (FMAT).
 
