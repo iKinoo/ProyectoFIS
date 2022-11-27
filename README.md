@@ -18,7 +18,7 @@
 
 
 ## **Problemática** 
-[**Video de resentación del proyecto**](https://youtu.be/HyCusK-BJfA)
+[**Video de presentación del proyecto**](https://youtu.be/HyCusK-BJfA)
 
  Ineficiencia de tiempo y administración en el proceso de pedidos de alimentos de la Cafetería de la Facultad de Matemáticas (FMAT).
 
@@ -30,8 +30,10 @@ Sistema de Administración de Pedidos.
 
 ## **Usuarios**
 **Usuario cafetería.** Es el usuario que atiende y confirma (ver requerimiento F3) los pedidos de los usuarios consumidores físicos, y no físicos.
-Usuario Consumidor No físico. Es el usuario que realiza pedidos a través del sistema. No es necesario que esté físicamente en la cafetería para ello.
+
+**Usuario Consumidor No físico.** Es el usuario que realiza pedidos a través del sistema. No es necesario que esté físicamente en la cafetería para ello.
 
 **Usuario Consumidor Físico.** Es el usuario que no realiza pedidos a través del sistema. Es necesario que esté físicamente presente en la cafetería para realizar pedidos.
 
+[Video de la segunda entrega](https://www.youtube.com/watch?v=Zcaey8lxAGE)
 
