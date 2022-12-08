@@ -1,0 +1,4 @@
+# Sprint
+
+Al inicio del sprint se realizó un calendario basado en la duración del mismo, en el que colocamos las actividades a realizar junto con las fechas de inicio y culminación estimadas, al cual luego se le fueron agregando tareas no contempladas en el momento de su realización, luego se asignaron ciertas tareas a cada uno de los integrantes al final revisar todo entre todos para la segunda entrega.<br>
+El tener una retroalimentación corta y concisa día a día de los avances de cada tarea podría facilitar el avance de la elaboración de estas, ya que suelen surgir dificultades en el transcurso de la realización y con esto se tendría el apoyo de todo el equipo de trabajo para solucionar dicho problema. Los beneficios de llevar a cabo estas retroalimentaciones se verían reflejados en un tiempo más reducido en el proceso de las tareas y en el entendimiento de todos los integrantes del equipo de lo que está sucediendo en el proyecto.
