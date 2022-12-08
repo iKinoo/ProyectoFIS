@@ -17,6 +17,8 @@ allMenu.set(3, 'Torta de Empanizado');
 allMenu.set(4, 'Torta Cubana');
 allMenu.set(5, 'Torta de Relleno Negro')
 allMenu.set(6, 'Empanadas');
+allMenu.set(7, 'Hamburguesa');
+allMenu.set(8, 'Pizza')
 
 let clientMenu = new Map();
 
@@ -24,8 +26,6 @@ const client = new Client({
     authStrategy: new LocalAuth(),
     puppeteer: { headless: false }
 });
-
-/** */
 
 
 /**
@@ -54,6 +54,24 @@ const chooseStep = (to, message) => {
         case 'Hola':
             chooseMessage('STEP 1', to, message)
             break;
+        case 'hola':
+            chooseMessage('STEP 1', to, message)
+            break;
+        case 'ola':
+            chooseMessage('STEP 1', to, message)
+            break;
+        case 'Buenos dias':
+            chooseMessage('STEP 1', to, message)
+            break;
+        case 'Que tal':
+            chooseMessage('STEP 1', to, message)
+            break;
+        case 'Hla':
+            chooseMessage('STEP 1', to, message)
+            break;
+        case 'Hol':
+            chooseMessage('STEP 1', to, message)
+            break;
         case 'Hacer pedido':
             chooseMessage('STEP 2', to, message)
             break;
@@ -63,7 +81,7 @@ const chooseStep = (to, message) => {
         case 'Remover':
             chooseMessage('STEP REMOVE', to, message)
             break;
-        case 'Confirmar':
+        case 'Finalizar':
             chooseMessage('STEP PRE_FINAL', to, message)
             break;
         case 'Ordenar':
@@ -86,18 +104,18 @@ const chooseStep = (to, message) => {
 const chooseMessage = (step, to, message) => {
     switch (step) {
         case 'STEP 0':
-            sendMessage(to, 'Se utilizaran sus datos de pedidos para un fin estadistico, no se lucrará con su informacion🤝.')
+            sendMessage(to, 'Se utilizarán sus datos de pedidos para un fin estadístico, no se lucrará con su información🤝.')
             break;
         case 'STEP 1':
-            let button = new Buttons('Bienvenido al servicio automatizado🤖 de pedidos de cafeteria FMAT.', [{ body: 'Hacer pedido' }, { body: 'Aviso de privacidad' }]);
+            let button = new Buttons('Bienvenido al servicio automatizado🤖 de pedidos de la cafetería FMAT.', [{ body: 'Hacer pedido' }, { body: 'Aviso de privacidad' }]);
             sendMessage(to, button);
             break;
         case 'STEP 2':
             let menuView = viewMenu();
-            sendMessage(to, `Para seleccionar una comida, escriba el numero que corresponda (Ej. *1* para torta de asada) ${menuView}`) //\n*1*. Torta de asada.\n*2*. Torta de jamon y queso.\n*3*. Torta de Empanizado.\n*4*. Torta Cubana.\n*5*. Torta de Relleno Negro.\n*6*. Empanadas.)
+            sendMessage(to, `Para seleccionar una comida, escriba el número que corresponda (Ej. *1* para torta de asada) ${menuView}`);
             break;
         case 'STEP FOOD':
-            let btn = new Buttons(`Agregando ${allMenu.get(parseInt(message))} al carrito🍴`, [{ body: 'Remover' }, { body: 'Confirmar' }]);
+            let btn = new Buttons(`Se ha agregado ${allMenu.get(parseInt(message))} al carrito🍴`, [{ body: 'Remover' }, { body: 'Finalizar' }]);
             addFoodToCar(parseInt(message))
             sendMessage(to, btn);
             break;
@@ -107,13 +125,13 @@ const chooseMessage = (step, to, message) => {
         case 'STEP EDIT':
             var car = viewCar();
             var buttonListEdit = editMenu();
-            var buttonEdit = new Buttons(`Pulse en cada comida que desea eliminar. \nSu carrito es: ${car}`, buttonListEdit, 'Editando', 'Cuando termine de editar, pulse *Confirmar* para continuar con su pedido.')
+            var buttonEdit = new Buttons(`Pulse en cada comida que desea eliminar de su carrito. \nSu carrito es: ${car}`, buttonListEdit, 'Editando', 'Cuando termine de editar, pulse *Finalizar* para continuar con su pedido.')
             console.log(buttonListEdit)
             sendMessage(to, buttonEdit)
             break;
         case 'STEP DELETE':
-            var btnStop = new Buttons(`Se ha eliminado ${message} de su carrito`, [{body: 'Confirmar'}])
-            sendMessage(to,btnStop )
+            var btnStop = new Buttons(`Se ha eliminado ${message} de su carrito`, [{ body: 'Finalizar' }])
+            sendMessage(to, btnStop)
             break;
         case 'STEP PRE_FINAL':
             var car = viewCar();
@@ -123,31 +141,36 @@ const chooseMessage = (step, to, message) => {
             } else {
                 sendMessage(to, car)
             }
-            
+
             break;
         case 'STEP FINAL':
-            sendMessage(to, 'Su pedido en proceso que se confirme por parte de la cafeteria, agradecemos su preferencia! 😊')
+            sendMessage(to, 'Su pedido está en proceso que se confirme por parte de la cafeteria, agradecemos su preferencia! 😊')
             clientMenu.clear();
             break;
 
     }
 }
 
+/**
+ * 
+ * Esta funcion retorna una lista de botones dependiendo del menu del cliente 
+ */
+
 const editMenu = () => {
     var buttonList = new Array()
-    clientMenu.forEach( element => {
-        buttonList.push({body: element})
+    clientMenu.forEach(element => {
+        buttonList.push({ body: element })
     })
     return buttonList
 }
 
 /**
  * 
- * Esta funcion devuelve un bool si se esta editando
+ * Esta funcion devuelve un bool para saber si esta editando el mensaje
  */
 const checkEdit = (message) => {
     var deleteState = false
-    clientMenu.forEach( (element, key) => {
+    clientMenu.forEach((element, key) => {
         if (element == message) {
             deleteState = true
             clientMenu.delete(key);
